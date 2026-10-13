@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "home": "Home",
+    "quiz": "Quiz",
+    "score": "Score",
+    "results": "Results",
+    "cta": "Play Now! 🦕"
+  },
+  "footer": {
+    "tagline": "How well do you know your dinosaurs?",
+    "copyright": "Made with 🦕 love. A fun quiz for dino fans everywhere!"
+  },
+  "hero": {
+    "heading": "🦕 Dino Quiz! 🦖",
+    "body": "Do you know your dinosaurs? Let's find out! Answer 10 fun questions and see how many you get right. Are you a Dino Master or a Dino Explorer? Let's go!",
+    "cta": "Start the Quiz!",
+    "title": "Dino Quiz!",
+    "subtitle": "10 roar-some questions about the coolest creatures that ever lived. Can you get them all right?"
+  },
+  "quiz-container": [
+    {
+      "question": "What do you call a dinosaur that only eats plants?",
+      "options": [
+        "Carnivore",
+        "Herbivore",
+        "Omnivore",
+        "Insectivore"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which dinosaur had the longest neck?",
+      "options": [
+        "T. rex",
+        "Stegosaurus",
+        "Brachiosaurus",
+        "Velociraptor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How many horns did a Triceratops have on its face?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does 'dinosaur' mean?",
+      "options": [
+        "Big lizard",
+        "Scary monster",
+        "Terrible lizard",
+        "Giant reptile"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which dinosaur is famous for its tiny arms?",
+      "options": [
+        "Ankylosaurus",
+        "T. rex",
+        "Diplodocus",
+        "Iguanodon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dinosaurs lived in a time called the…",
+      "options": [
+        "Ice Age",
+        "Stone Age",
+        "Mesozoic Era",
+        "Jurassic Park"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which dinosaur had bony plates on its back?",
+      "options": [
+        "Spinosaurus",
+        "Stegosaurus",
+        "Pterodactyl",
+        "Allosaurus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Were birds related to dinosaurs?",
+      "options": [
+        "No, not at all",
+        "Yes, birds evolved from dinosaurs",
+        "Only penguins",
+        "Only ostriches"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What did the Ankylosaurus use to defend itself?",
+      "options": [
+        "Its sharp claws",
+        "Its long neck",
+        "Its bony tail club",
+        "Its loud roar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which was the biggest meat-eating dinosaur ever found?",
+      "options": [
+        "T. rex",
+        "Velociraptor",
+        "Spinosaurus",
+        "Giganotosaurus"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "progress-bar": [
+    "Question 1 of 10 — just getting started! 🦕",
+    "Question 2 of 10 — nice work, keep it up!",
+    "Question 3 of 10 — you're on a roll! 🌿",
+    "Question 4 of 10 — almost halfway there!",
+    "Question 5 of 10 — halfway! You're amazing! 🌟",
+    "Question 6 of 10 — more than halfway, go go go!",
+    "Question 7 of 10 — nearly at the finish line! 🦖",
+    "Question 8 of 10 — so close now!",
+    "Question 9 of 10 — one more after this!",
+    "Question 10 of 10 — last question, give it your best! 🏆"
+  ],
+  "score-tracker": [
+    "✅ Correct — +1 point! Great job!",
+    "❌ Oops! Not quite — the right answer lights up so you can learn it!",
+    "⭐ Score so far: shown live at the top of every question",
+    "🏆 Final score shown on the results screen when you finish all 10!"
+  ],
+  "results-screen": [
+    "🦕 DINO MASTER! You know everything about dinosaurs! Incredible!",
+    "🌿 Dino Expert! You really know your stuff. So close to perfect!",
+    "🥚 Dino Explorer! Good try! Play again and beat your score!",
+    "🦖 Dino Hatchling! Everyone starts somewhere — try again, you've got this!"
+  ],
+  "quiz": {
+    "readyTitle": "Ready to Roar?",
+    "readyDesc": "Answer 10 questions about dinosaurs. Pick the right answer and learn a cool dino fact after each one!",
+    "rules": [
+      {
+        "icon": "❓",
+        "text": "10 fun questions"
+      },
+      {
+        "icon": "🦕",
+        "text": "Cool dino facts"
+      },
+      {
+        "icon": "⭐",
+        "text": "Score out of 10"
+      },
+      {
+        "icon": "🔁",
+        "text": "Play as many times as you like!"
+      }
+    ],
+    "startBtn": "Let's Go!",
+    "questionLabel": "Question",
+    "pointsLabel": "points",
+    "nextBtn": "Next Question →",
+    "seeResults": "See My Score! 🏆"
+  },
+  "score": {
+    "title": "Quiz Complete!",
+    "correctLabel": "correct answers",
+    "playAgain": "Play Again!"
+  },
+  "facts": {
+    "title": "Wild Dino Facts",
+    "subtitle": "Learn something amazing about the prehistoric world!",
+    "items": [
+      {
+        "emoji": "🦷",
+        "title": "T. rex Teeth",
+        "body": "T. rex had 60 teeth, each one as long as a banana! They could crunch through bone like it was nothing."
+      },
+      {
+        "emoji": "🥚",
+        "title": "Dino Eggs",
+        "body": "Dinosaurs laid eggs just like birds and reptiles do today. Some nests had up to 20 eggs in them!"
+      },
+      {
+        "emoji": "🌍",
+        "title": "Fossils Everywhere",
+        "body": "Dinosaur fossils have been found on every single continent, even icy Antarctica!"
+      },
+      {
+        "emoji": "🐦",
+        "title": "Living Dinos",
+        "body": "Birds are actually real dinosaurs! They evolved from feathered theropods millions of years ago."
+      },
+      {
+        "emoji": "🦴",
+        "title": "Hollow Bones",
+        "body": "Many dinosaurs had hollow bones, just like birds today. This made them lighter and faster!"
+      },
+      {
+        "emoji": "🌡️",
+        "title": "Warm or Cold?",
+        "body": "Scientists now think many dinosaurs were warm-blooded and very active, not slow and sluggish!"
+      }
+    ]
+  },
+  "types": {
+    "title": "Meet the Dinos",
+    "subtitle": "Dinosaurs came in all shapes and sizes. Here are three amazing groups!",
+    "items": [
+      {
+        "emoji": "🦖",
+        "name": "Meat Eaters",
+        "desc": "Carnivores like T. rex and Velociraptor hunted other animals. They had sharp teeth and claws!",
+        "color": "rgba(255, 200, 150, 0.25)"
+      },
+      {
+        "emoji": "🦕",
+        "name": "Plant Eaters",
+        "desc": "Herbivores like Brachiosaurus and Triceratops munched on plants all day. Some were HUGE!",
+        "color": "rgba(150, 230, 180, 0.25)"
+      },
+      {
+        "emoji": "🦅",
+        "name": "Flying Reptiles",
+        "desc": "Pterosaurs soared through the sky! They weren't dinosaurs but lived at the same time.",
+        "color": "rgba(180, 200, 255, 0.25)"
+      }
+    ]
+  },
+  "cta": {
+    "title": "Challenge Your Friends!",
+    "subtitle": "Think you know more dinos than your friends? Share the quiz and find out who the real Dino Expert is!",
+    "btn": "Play Again!"
+  }
+}

@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;500;600;700&display=swap');
+
+:root {
+  --background: #F5F0DC;
+  --foreground: #1B3A2D;
+  --card: #FFFDF2;
+  --border: #B8A96A;
+  --muted-foreground: #5A6E5C;
+  --primary: #2D6A4F;
+  --accent: #D4A017;
+  --danger: #C0392B;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Fredoka One', sans-serif;
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--foreground);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+:focus-visible {
+  outline: 3px solid var(--primary);
+  outline-offset: 3px;
+  border-radius: 8px;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--foreground);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--primary);
+}

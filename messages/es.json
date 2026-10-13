@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "quiz": "Quiz",
+    "score": "Puntuación",
+    "results": "Resultados",
+    "cta": "¡Juega Ahora! 🦕"
+  },
+  "footer": {
+    "tagline": "¿Qué tan bien conoces a los dinosaurios?",
+    "copyright": "Hecho con 🦕 amor. ¡Un quiz divertido para fans de dinos en todas partes!"
+  },
+  "hero": {
+    "heading": "🦕 ¡Quiz de Dinos! 🦖",
+    "body": "¿Conoces a los dinosaurios? ¡Descubrámoslo! Responde 10 preguntas divertidas y ve cuántas aciertas. ¿Eres un Maestro Dino o un Explorador Dino? ¡Vamos!",
+    "cta": "¡Comienza el Quiz!",
+    "title": "¡Quiz de Dinos!",
+    "subtitle": "10 preguntas rugientes sobre las criaturas más geniales que jamás existieron. ¿Puedes acertarlas todas?"
+  },
+  "quiz": {
+    "readyTitle": "¿Listo para Rugir?",
+    "readyDesc": "Responde 10 preguntas sobre dinosaurios. ¡Elige la respuesta correcta y aprende un dato dino genial después de cada una!",
+    "startBtn": "¡Vamos!",
+    "questionLabel": "Pregunta",
+    "pointsLabel": "puntos",
+    "nextBtn": "Siguiente Pregunta →",
+    "seeResults": "¡Ver Mi Puntuación! 🏆",
+    "rules": [
+      {
+        "icon": "❓",
+        "text": "10 fun questions"
+      },
+      {
+        "icon": "🦕",
+        "text": "Cool dino facts"
+      },
+      {
+        "icon": "⭐",
+        "text": "Score out of 10"
+      },
+      {
+        "icon": "🔁",
+        "text": "Play as many times as you like!"
+      }
+    ]
+  },
+  "score": {
+    "title": "¡Quiz Completado!",
+    "correctLabel": "respuestas correctas",
+    "playAgain": "¡Jugar de Nuevo!"
+  },
+  "facts": {
+    "title": "Datos Dino Increíbles",
+    "subtitle": "¡Aprende algo asombroso sobre el mundo prehistórico!",
+    "items": [
+      {
+        "emoji": "🦷",
+        "title": "T. rex Teeth",
+        "body": "T. rex had 60 teeth, each one as long as a banana! They could crunch through bone like it was nothing."
+      },
+      {
+        "emoji": "🥚",
+        "title": "Dino Eggs",
+        "body": "Dinosaurs laid eggs just like birds and reptiles do today. Some nests had up to 20 eggs in them!"
+      },
+      {
+        "emoji": "🌍",
+        "title": "Fossils Everywhere",
+        "body": "Dinosaur fossils have been found on every single continent, even icy Antarctica!"
+      },
+      {
+        "emoji": "🐦",
+        "title": "Living Dinos",
+        "body": "Birds are actually real dinosaurs! They evolved from feathered theropods millions of years ago."
+      },
+      {
+        "emoji": "🦴",
+        "title": "Hollow Bones",
+        "body": "Many dinosaurs had hollow bones, just like birds today. This made them lighter and faster!"
+      },
+      {
+        "emoji": "🌡️",
+        "title": "Warm or Cold?",
+        "body": "Scientists now think many dinosaurs were warm-blooded and very active, not slow and sluggish!"
+      }
+    ]
+  },
+  "types": {
+    "title": "Conoce a los Dinos",
+    "subtitle": "Los dinosaurios vinieron en todas las formas y tamaños. ¡Aquí hay tres grupos increíbles!",
+    "items": [
+      {
+        "emoji": "🦖",
+        "name": "Meat Eaters",
+        "desc": "Carnivores like T. rex and Velociraptor hunted other animals. They had sharp teeth and claws!",
+        "color": "rgba(255, 200, 150, 0.25)"
+      },
+      {
+        "emoji": "🦕",
+        "name": "Plant Eaters",
+        "desc": "Herbivores like Brachiosaurus and Triceratops munched on plants all day. Some were HUGE!",
+        "color": "rgba(150, 230, 180, 0.25)"
+      },
+      {
+        "emoji": "🦅",
+        "name": "Flying Reptiles",
+        "desc": "Pterosaurs soared through the sky! They weren't dinosaurs but lived at the same time.",
+        "color": "rgba(180, 200, 255, 0.25)"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¡Desafía a Tus Amigos!",
+    "subtitle": "¿Crees que sabes más dinos que tus amigos? ¡Comparte el quiz y descubre quién es el verdadero Experto Dino!",
+    "btn": "¡Jugar de Nuevo!"
+  },
+  "quiz-container": [
+    {
+      "question": "What do you call a dinosaur that only eats plants?",
+      "options": [
+        "Carnivore",
+        "Herbivore",
+        "Omnivore",
+        "Insectivore"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which dinosaur had the longest neck?",
+      "options": [
+        "T. rex",
+        "Stegosaurus",
+        "Brachiosaurus",
+        "Velociraptor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "How many horns did a Triceratops have on its face?",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "What does 'dinosaur' mean?",
+      "options": [
+        "Big lizard",
+        "Scary monster",
+        "Terrible lizard",
+        "Giant reptile"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which dinosaur is famous for its tiny arms?",
+      "options": [
+        "Ankylosaurus",
+        "T. rex",
+        "Diplodocus",
+        "Iguanodon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Dinosaurs lived in a time called the…",
+      "options": [
+        "Ice Age",
+        "Stone Age",
+        "Mesozoic Era",
+        "Jurassic Park"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which dinosaur had bony plates on its back?",
+      "options": [
+        "Spinosaurus",
+        "Stegosaurus",
+        "Pterodactyl",
+        "Allosaurus"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "Were birds related to dinosaurs?",
+      "options": [
+        "No, not at all",
+        "Yes, birds evolved from dinosaurs",
+        "Only penguins",
+        "Only ostriches"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "question": "What did the Ankylosaurus use to defend itself?",
+      "options": [
+        "Its sharp claws",
+        "Its long neck",
+        "Its bony tail club",
+        "Its loud roar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which was the biggest meat-eating dinosaur ever found?",
+      "options": [
+        "T. rex",
+        "Velociraptor",
+        "Spinosaurus",
+        "Giganotosaurus"
+      ],
+      "correctIndex": 2
+    }
+  ],
+  "progress-bar": [
+    "Question 1 of 10 — just getting started! 🦕",
+    "Question 2 of 10 — nice work, keep it up!",
+    "Question 3 of 10 — you're on a roll! 🌿",
+    "Question 4 of 10 — almost halfway there!",
+    "Question 5 of 10 — halfway! You're amazing! 🌟",
+    "Question 6 of 10 — more than halfway, go go go!",
+    "Question 7 of 10 — nearly at the finish line! 🦖",
+    "Question 8 of 10 — so close now!",
+    "Question 9 of 10 — one more after this!",
+    "Question 10 of 10 — last question, give it your best! 🏆"
+  ],
+  "score-tracker": [
+    "✅ Correct — +1 point! Great job!",
+    "❌ Oops! Not quite — the right answer lights up so you can learn it!",
+    "⭐ Score so far: shown live at the top of every question",
+    "🏆 Final score shown on the results screen when you finish all 10!"
+  ],
+  "results-screen": [
+    "🦕 DINO MASTER! You know everything about dinosaurs! Incredible!",
+    "🌿 Dino Expert! You really know your stuff. So close to perfect!",
+    "🥚 Dino Explorer! Good try! Play again and beat your score!",
+    "🦖 Dino Hatchling! Everyone starts somewhere — try again, you've got this!"
+  ]
+}
